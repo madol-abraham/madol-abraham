@@ -26,9 +26,9 @@
 ---
 
 ## 🌟 Featured Projects
-- 🌾 [Sorghum Disease Diagnosis App](https://github.com/yourusername/sorghum-disease-app) – Mobile AI app for farmers using CNNs.  
+- 🌾 [issuing alert using reinforcement_learning](https://github.com/madol-abraham/madol_abraham_rl_summative.git) – Reinforcement learning for alert warning.  
 - ☀️ [Heatwave Early Warning System](https://github.com/yourusername/heatwave-forecast) – Hybrid CNN-LSTM model + mobile app for alerts.  
-- 🤖 [Agricultural Chatbot](https://github.com/yourusername/agri-chatbot) – Q&A chatbot offering localized farming solutions.  
+- 🤖 [Agricultural Chatbot](https://github.com/madol-abraham/Agricultural_chatbot.git) – Q&A chatbot offering localized farming solutions.  
 
 ---
 
@@ -36,7 +36,7 @@
 - Mastercard Foundation Scholar  
 - YALI Training Program (2024)  
 - Carnegie Mellon University-Africa Bridge Program (2025)  
-- Stanford Code in Place Python Training (2023)  
+- Won Deep Learning Indabax AI Hackathon for South Sudan (2025)  
 
 ---
 
@@ -46,5 +46,5 @@
 ---
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://www.linkedin.com/in/madol-abraham-kuol-madol/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your@email.com)
