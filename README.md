@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 Software Engineering student at African Leadership University  
-- 🔬 Building AI solutions for climate resilience & sustainable agriculture  
+- 🔬 Building AI solutions for climate resilience & sustainable agriculture 
 - 💡 Currently developing a **Heatwave Early Warning System for South Sudan**  
 - 🚀 Interested in applied machine learning, AI for social impact, and scalable tech solutions  
 
